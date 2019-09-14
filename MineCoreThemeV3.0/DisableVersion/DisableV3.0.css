@@ -1,5 +1,3 @@
-/* disable this version */
-
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css);
 html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:before,html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:after,#user-settings:after{
 	content: "Whoops its looks like you have an old theme , you can upgrade the theme on this site https://agam-s-discord-themes.webnode.com/, no file to upgrade there ? contact Agam#1111 Thank you" !important;
