@@ -1,5 +1,5 @@
 :root {
-    --BG-image-default: url('https://i.imgur.com/kYW2H5C.jpg');
+    --BG-image-default: url('https://i.imgur.com/xoAa3Go.png');
     --BG-image-set: var(--BG-image, var(--BG-image-default));
     --HSL-btns: calc(var(--HSL-size) + 20px);
     --HSL-btns-SF-opened: calc(var(--HSL-btns) + 55px);
