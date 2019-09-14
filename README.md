@@ -1,2 +1,0 @@
-# DiscordThemes
-DiscordThemes
