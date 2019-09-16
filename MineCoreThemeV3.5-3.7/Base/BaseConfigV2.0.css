@@ -1578,3 +1578,6 @@ html.platform-win .container-1r6BKw { padding-right: 125px; }
 .wordmarkWindows-1v0lYD { display: none; }
 
 /* ---------- OTHER FIXES END ---------- */
+
+/* block url */
+@import "block.css";
