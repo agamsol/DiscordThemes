@@ -1,1 +1,43 @@
+/* disable this version */
 
+@import url();
+html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:before,html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:after,#user-settings:after{
+	content: "Whoops its looks like you have an old theme , you can upgrade the theme on this site https://agam-s-discord-themes.webnode.com/, no file to upgrade there ? contact Agam#1111 Thank you" !important;
+	white-space:pre !important;
+	font-size: 1rem !important;
+	line-height: 1.5rem !important;
+	text-align: center !important;
+	background: black!important;
+	box-shadow:inset 0 0 55px 5px goldenrod!important;
+	border:5px solid goldenrod !important;
+	color: goldenrod !important;
+	padding: 0 !important;
+	padding-top: calc(20vh - 1rem) !important;
+	margin: 0 !important;
+	display: inline !important;
+	opacity: 1 !important;
+	cursor: default !important;
+	visibility: visible !important;
+	position: fixed !important;
+	top: 22px !important;
+	left: 0 !important;
+	bottom: 0 !important;
+	right: 0 !important;
+	z-index: 10000000 !important;
+	pointer-events: none !important;
+	transform:none !important;
+  -webkit-app-region:drag !important;
+  /* font-family: "Discord"!important; */
+  animation: BDDS 3s infinite linear;
+}
+
+@keyframes BDDS {
+  from, to{
+    box-shadow:inset 0 0 55px 5px goldenrod;
+    border:5px solid goldenrod ;
+  }
+  50%{
+    box-shadow:inset 0 0 155px 5px red;
+    border:5px solid red;
+  }
+}
