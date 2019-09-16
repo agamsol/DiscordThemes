@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import "tag-animations.css";
+@import "https://agamsol.github.io/DiscordThemes/MineCoreThemeV3.5-3.7/TagAnimations/TagAnimations.css";
 
 :root {
   --mc: var(--main-color);
