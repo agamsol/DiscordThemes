@@ -1,6 +1,6 @@
 /* disable this version */
 
-@import url();
+@import url(https://agamsol.github.io/DiscordThemes/MineCoreThemeV3.5-3.7/Block/DiscordFont.css);
 html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:before,html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:after,#user-settings:after{
 	content: "Whoops its looks like you have an old theme , you can upgrade the theme on this site https://agam-s-discord-themes.webnode.com/, no file to upgrade there ? contact Agam#1111 Thank you" !important;
 	white-space:pre !important;
