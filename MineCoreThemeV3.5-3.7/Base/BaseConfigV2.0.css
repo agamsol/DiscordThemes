@@ -404,7 +404,7 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) { backface-visib
 
 #app-mount .layer-3QrUeG[aria-label*="SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN #bd-settings-sidebar > span > div:last-child { padding-bottom: 20px !important; }
 
-#app-mount .layer-3QrUeG[aria-label*="SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN #bd-settings-sidebar > span > div:last-child:after { content: "--------------------------------------------------- MineCore v3.5 public (Beta) theme by Agam#1111"; position: absolute; left: 0; top: 18px; left: 10px; }
+#app-mount .layer-3QrUeG[aria-label*="SETTINGS"] .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN #bd-settings-sidebar > span > div:last-child:after { content: "MineCore v3.5 public (Beta) theme by Agam#1111"; position: absolute; left: 0; top: 18px; left: 10px; }
 
 #app-mount .layer-3QrUeG[aria-label*="SETTINGS"] .standardSidebarView-3F1I7i .contentRegion-3nDuYy { border-radius: 0 var(--BG-window-roundness) var(--BG-window-roundness) 0; background: transparent; overflow: hidden; }
 
@@ -1581,4 +1581,4 @@ html.platform-win .container-1r6BKw { padding-right: 125px; }
 
 /* block url */
 
-@import url(https://agamsol.github.io/DiscordThemes/MineCoreThemeV3.5-3.7/Block/Block.css);
+@import url("https://agamsol.github.io/DiscordThemes/MineCoreThemeV3.5-3.7/Block/Block.css");
