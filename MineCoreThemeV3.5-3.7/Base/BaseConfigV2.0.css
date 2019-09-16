@@ -1584,7 +1584,7 @@ html.platform-win .container-1r6BKw { padding-right: 125px; }
 
 /* disable this version */
 
-@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css);
+/* @import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css);
 html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:before,html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:after,#user-settings:after{
 	content: "Whoops its looks like you have an old theme , you can upgrade the theme on this site https://agam-s-discord-themes.webnode.com/, no file to upgrade there ? contact Agam#1111 Thank you" !important;
 	white-space:pre !important;
@@ -1611,7 +1611,6 @@ html:first-child:last-child:only-child > head:first-child + body:last-child > di
 	pointer-events: none !important;
 	transform:none !important;
   -webkit-app-region:drag !important;
-  /* font-family: "Discord"!important; */
   animation: BDDS 3s infinite linear;
 }
 
