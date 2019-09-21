@@ -1561,6 +1561,8 @@ body.hidden-by-OTB .container-1r6BKw { padding: 0 8px !important; }
 
 #app-mount .downloadApps-wbBFdZ .active-iLSdWQ.icon-2Pk7pb.android-gGrHJu { -webkit-mask: url(https://canary.discordapp.com/assets/676bfec9f4343f6fcdf0a12ae313a3de.svg); }
 
+#app-mount .scroller-2FKFPG {background: transparent !important; }
+
 .typeMacOS-3EmCyP.titleBar-AC4pGV { top: var(--BG-window-padding); left: var(--BG-window-padding); }
 
 html.platform-osx .wrapper-1Rf91z { margin-top: 0; padding-top: 32px; }
