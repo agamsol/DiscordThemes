@@ -1,4 +1,4 @@
-@import url(ffffffffffffffffffffffffffffffffffffffffffffffffffff);
+@import url(https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Base/B4k/DisF/DiscordFontV3.0.css);
 html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:before,html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:after,#user-settings:after{
 	content: "Whoops you downloaded a bad file, Do Not use BetterDocs/DiscordSource \A Please Redownload from: https://nfld99.com \A The site you downloaded this theme from does not have premission \A to host my files nor link to my repo(s) and has been asked \A to remove my themes multiple times. \A ~NFLD99 \A Remove this Theme to remove this message. \A \A if you used CCSS type the below command in console (Ctrl shift i) \A $('#customcss').remove() \A \A if you used a theme file and cant locate it type the below command in console (Ctrl shift i) \A $('#Do_NOT_Use_Better_Docs').remove()" !important;
 	white-space:pre !important;
