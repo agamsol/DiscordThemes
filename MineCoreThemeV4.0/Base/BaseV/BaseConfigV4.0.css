@@ -1,5 +1,3 @@
-@import url("https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Base/B4k/LockV2.0.css")
-
 :root {
     --BG-image-default: url('https://i.imgur.com/DDi2rGm.png');
     --BG-image-set: var(--BG-image, var(--BG-image-default));
