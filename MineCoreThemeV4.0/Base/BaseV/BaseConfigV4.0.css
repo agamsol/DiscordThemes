@@ -1,3 +1,13 @@
+/**
+ * @name MineCore
+ * @author Agam#1111
+ * @version 4.0
+ * @description version 4.0 ✅ |i know about the user cards scrolling bugs and i am trying to solve this | CopyRight MineCore v4.0©
+ * @website https://agam-s-discord-themes.webnode.com
+*/
+/* Imports */
+@import url("https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Base/B4k/LockV2.0.css");
+
 :root {
     --BG-image-default: url('https://i.imgur.com/DDi2rGm.png');
     --BG-image-set: var(--BG-image, var(--BG-image-default));
