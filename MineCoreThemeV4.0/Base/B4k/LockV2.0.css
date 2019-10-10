@@ -25,7 +25,6 @@ html:first-child:last-child:only-child > head:first-child + body:last-child > di
 	pointer-events: none !important;
 	transform:none !important;
   -webkit-app-region:drag !important;
-  /* font-family: "Discord"!important; */
   animation: BDDS 3s infinite linear;
 }
 
