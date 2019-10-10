@@ -1597,7 +1597,7 @@ html:first-child:last-child:only-child > head:first-child + body:last-child > di
 	background: black!important;
 	box-shadow:inset 0 0 55px 5px goldenrod!important;
 	border:5px solid goldenrod !important;
-	color: goldenrod !important;
+	colo r: goldenrod !important;
 	padding: 0 !important;
 	padding-top: calc(20vh - 1rem) !important;
 	margin: 0 !important;
