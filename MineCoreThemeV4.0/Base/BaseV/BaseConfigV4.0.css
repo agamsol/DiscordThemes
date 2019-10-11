@@ -9,7 +9,7 @@
 @import url("https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Base/B4k/LockV2.0.css");
 
 :root {
-    --BG-image-default: url('https://i.imgur.com/DDi2rGm.png');
+    --BG-image-default: url('https://i.imgur.com/QLKBdET.jpg');
     --BG-image-set: var(--BG-image, var(--BG-image-default));
     --HSL-btns: calc(var(--HSL-size) + 20px);
     --HSL-btns-SF-opened: calc(var(--HSL-btns) + 55px);
