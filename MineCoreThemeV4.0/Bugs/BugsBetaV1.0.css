@@ -2,15 +2,6 @@
 /* all bugs that got solved will appear here */
     /* if you saw a bug contact Agam#1111*/
 
-.bg-h5JY_x {
-    background: transparent !important;
-}
-
-/* fix server unavailable, empty folder server space, removes folder animation when open/close */
-.expandedGuilds-1JMD4M {
-    height: auto !important;
-}
-
 /* fix server discovery */
 html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {
     backface-visibility: visible !important;
@@ -20,7 +11,3 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) {
 .bg-h5JY_x {
     background: transparent !important;
 }
-
-/* not a bug (removes unavailable servers icon) (optional) */
-.guildsError-b7zR5H {
-       display: none;
