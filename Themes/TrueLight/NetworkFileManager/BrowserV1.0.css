@@ -8,19 +8,19 @@
 
 /* Base 5.0 */ 
 @import
-url(https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Base/BaseVersion/BaseConfigV5.0.css);
+url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Base/BaseVersion/BaseConfigV5.0.css');
 
 /* Extentions 1.0 */
 @import
-url(https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Base/Extentions/ExtentionsV1.0.css);
+url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Base/Extentions/ExtentionsV1.0.css');
 
 /* root 11.0 */
 @import
-url(https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Root/RootV11.0.css);
+url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Root/RootV11.0.css');
 
 /* user cards 1.0 */
 @import
-url(https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Base/UserCards/UserCardsV1.0.css);
+url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight/Theme/Base/UserCards/UserCardsV1.0.css');
 
 /* bugs beta 2.0 */
 @import
