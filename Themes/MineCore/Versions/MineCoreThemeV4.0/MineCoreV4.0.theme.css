@@ -1,0 +1,35 @@
+/**
+ * @name MineCore
+ * @author Agam#1111
+ * @version 4.0
+ * @description hello, i hope you enjoying from version 4.0 ✅ | i know about the user cards scrolling bugs and i am trying to solve this | CopyRight MineCore v4.0©
+ * @website https://agam-s-discord-themes.webnode.com
+*/
+
+/*base config - 4.0c */
+@import url('https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Base/BaseV/BaseConfigV4.0.css');
+
+/* user tags - 1.5 */
+@import url('https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/UserTagsBBox/UserTagsBBox/UserTagsV1.5.css');
+
+/* root - 10.0 */
+@import url('https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Root/RootV10.0.css');
+
+/* user card box - 5.0 */
+@import url('https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/UserCards/UserCardsV5.0.css');
+
+/* bug fixes: on */
+@import url('https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Bugs/BugsBetaV1.0.css');
+
+/* more extension incoming in the next version */
+@import url('');
+
+/*
+    created by Agam#1111
+	mail: agamsolomon2004@gmail.com
+    Discord Server: https://discordapp.com/invite/RRWd3Kn
+    Donate: https://streamlabs.com/agamsolomon/tip
+	
+	copyright MineCore v4.0©
+	
+*/
