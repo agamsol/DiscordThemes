@@ -1,3 +1,5 @@
+## repository's Information
+
 |  project    | repository | Active             |
 | ----------- | ------- | ------------------ |
 | Mine Core    |   Working      | :white_check_mark: |
@@ -6,9 +8,10 @@
 | True Light Minecraft |    not Working     | :x: |
 
 ---
-| Theme |  version  |  Time  |  Download |  
+## Updates and Supported versions
+| Theme |  version  |  Date  |  Download |  
 | ----------- | ------- | -------- | ---------- |
-
+| Truelight | 1.0 | 23.11.2019 | [download-link]: https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM |
 
 |  Themes    | Version | Supported          |
 | ----------- | ------- | ------------------ |
