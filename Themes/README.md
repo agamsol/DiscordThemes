@@ -21,15 +21,13 @@
 | True Light  |  1.0B   | :white_check_mark: |
 
 ---
+## if you will report a bug you will need to say the theme ID 
 |    Theme    | Version   | ID   |
 | ----------- | ------- | ---------- |
 | MineCore    |  4.0    |   #351     |
 | True Light  |  1.0B   |   #725     |
 
-
-
-
-
+## Check if the theme supported 
 
 |  project    | Version | Supported          |
 | ----------- | ------- | ------------------ |
