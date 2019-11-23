@@ -1,4 +1,7 @@
 |  project    | repository | Active             |
 | ----------- | ------- | ------------------ |
-| MineCore    |   Working      | :white_check_mark: |
+| Mine Core    |   Working      | :white_check_mark: |
 | True Light  |    Working     | :white_check_mark: |
+| True Light Anime |    not Working     | :x: |
+| True Light Minecraft |    not Working     | :x: |
+
