@@ -5,8 +5,26 @@
 | True Light Anime |    not Working     | :x: |
 | True Light Minecraft |    not Working     | :x: |
 
-| Theme |  version  |  Time  |  Updated |  
+---
+| Theme |  version  |  Time  |  Download |  
 | ----------- | ------- | -------- | ---------- |
+
+
+|  Themes    | Version | Supported          |
+| ----------- | ------- | ------------------ |
+| MineCore    |  4.0    | :x:                |
+| True Light  |  1.0B   | :white_check_mark: |
+
+---
+|    Theme    | Version   | ID   |
+| ----------- | ------- | ---------- |
+| MineCore    |  4.0    |   #351     |
+| True Light  |  1.0B   |   #725     |
+
+
+
+
+
 
 |  project    | Version | Supported          |
 | ----------- | ------- | ------------------ |
