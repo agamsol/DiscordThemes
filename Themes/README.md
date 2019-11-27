@@ -13,20 +13,23 @@
 | ----------- | ------- | ------- | ------- | ---------- |
 | True Light | 1.0 | 23.11.2019 | Source is moved to a new loaction |[Install Update](https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM) |
 | Mine Core | 4.0 | 14.11.2019 | Source is moved to a new loaction |[Install Update](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY) |
+| Mine Core | 3.7 | 27.11.2019 | Theme Has stopped working for some reason |[Install Update](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8) |
 
 |  Themes    | Version | Supported          |
 | ----------- | ------- | ------------------ |
 | MineCore    |  4.0    | :white_check_mark: |
 | True Light  |  1.0B   | :white_check_mark: |
+| MineCore    |  3.7    | :white_check_mark: |
 
 ## last Update
--  26.11.2019 | [MineCore 4.0 Users, download MineCore 4.0 | download MineCore after i have change the code and opend it](https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY)
+-  27.11.2019 | [Mine Core 3.7 is now back!](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)
 
 ---
 ## if you will report a bug you will need to say the theme ID 
 |    Theme    | Version   | ID   |
 | ----------- | ------- | ---------- |
 | MineCore    |  4.0    |   #351     |
+| MineCore    |  3.7    |   #348     |
 | True Light  |  1.0B   |   #725     |
 
 ## Check if the theme supported 
@@ -34,4 +37,5 @@
 |  project    | Version | Supported          |
 | ----------- | ------- | ------------------ |
 | MineCore    |  4.0    | :white_check_mark: |
+| MineCore    |  3.7    | :white_check_mark: |
 | True Light  |  1.0B   | :white_check_mark: |
