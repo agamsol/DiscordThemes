@@ -156,6 +156,9 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) { backface-visib
 
 #app-mount .sidebar-2K8pFh .channel-2QD9_O.selected-1HYmZZ .linkButtonIcon-Mlm5d6 { color: #fff; }
 
+.bg-h5JY_x {
+	background-color: #00000000; }
+
 #app-mount .sidebar-2K8pFh .channel-2QD9_O:not(.selected-1HYmZZ) .name-2WpE7M { color: rgba(255, 255, 255, 0.5); }
 
 #app-mount .sidebar-2K8pFh .channel-2QD9_O.selected-1HYmZZ a { background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1)); }
