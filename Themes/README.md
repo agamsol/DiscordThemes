@@ -19,12 +19,12 @@
 -  27.11.2019 | [Mine Core 3.7 is now back!](https://mega.nz/#!rWBzECaJ!K9XDvhrAdONKvKI-X-cdcMZHEgTN7OO9nGLRGLLkHA8)
 
 ---
-## if you will report a bug you will need to say the theme ID 
+## Themes ID 
 |    Theme    | Version   | ID   |
 | ----------- | ------- | ---------- |
-| MineCore    |  4.0    |   #351     |
-| MineCore    |  3.7    |   #348     |
-| True Light  |  1.0B   |   #725     |
+| Mine Core (Beta)   |  3.7    |   #348     |
+| Mine Core    |  4.0    |   #351     |
+| TrueLight repository  |  1.0B   |   #725     |
 
 ## Check if the theme supported 
 
