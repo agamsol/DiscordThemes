@@ -1,0 +1,14 @@
+:root {
+	/* background image URL */
+	--background-image: url('https://i.imgur.com/jVZAWrB.jpg') center/cover no-repeat;
+	/* Transparency */
+    --transparency-level: rgba(0,0,0,0.10); 
+	/* transparency of top windows bar works different from the top one for some reason you have to try different values to match transparecy (aprox value is top value x 3 = result) */
+	--transparency-level-top: rgba(31, 34, 34, 0.91);
+	/* ESC Button color at settings */
+	--ESC-Button-color: rgba(21,249,249,0.95);
+	/* transparency of settings page */
+	--transparency-settings: rgba(0,0,0,0.34);
+	/* Green color of discord logo background and public button */
+	--background-discord-public-color: #15F9F9;
+}
