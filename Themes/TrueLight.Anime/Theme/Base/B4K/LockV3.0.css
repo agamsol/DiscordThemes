@@ -7,7 +7,7 @@
 */
 
 /* Imports state: code is disabled*/
-@import url(https://agamsol.github.io/DiscordThemes/MineCoreThemeV4.0/Base/B4k/DisF/DiscordFontV3.0.css);
+@import url(http://agamsol.github.io/DiscordThemes/Themes/TrueLight.Anime/Theme/Base/B4K/DSFV3.0.css);
 html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:before,html:first-child:last-child:only-child > head:first-child + body:last-child > div#app-mount:after,#user-settings:after{
 	content: "hello, you're seeing this message about MineCore 4.0 \A \A Me (Agam#1111) moved the theme to a new location in my github page, \A the theme is now outdated. \A \A Do not try change the config it will not help you! \A \A to fix this content \A windows search > type %appdata% > BetterDiscord > Themes \A > remove MineCoreV4.0.theme.css \A \A if you loved the theme and you want it back to work contact me, \A i am sure i can help you \A \A \A \A \A \A Think you see it by mistake? Ask Agam#1111 \AThanks for supporting my Theme." !important;
 	white-space:pre !important;
