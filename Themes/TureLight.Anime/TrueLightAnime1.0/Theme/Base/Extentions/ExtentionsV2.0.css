@@ -1,0 +1,204 @@
+/**
+ * @name Extention | TrueLight Anime (beta)
+ * @author Agam#1356
+ * @version 2.0 | Extention
+ * @description Extentions Version 2.0 | CopyRight TrueLight-Anime v1.0©
+ * @website https://github.com/agamsol/Releases/blob/master/HUB.md
+*/
+
+/* start animation */
+body:before, body:after {
+    content: "True Light Anime 1.0";
+    color: #92a7f2;
+    font-size: 100px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.85);
+    z-index: 9997;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    animation: theme-intro .2s reverse forwards, theme-intro .2s 1s linear forwards, third-intro 0s 2s forwards, theme-intro .2s 2s reverse forwards, theme-intro .2s 3s linear forwards;
+}
+body:after {
+    content: "i hope you enjoy!";
+    opacity: 0;
+    animation: theme-intro .2s 1s reverse forwards, theme-intro .2s 2s linear forwards;
+}
+@keyframes third-intro {
+    to {
+        content: "↠Agam#1356";
+    }
+}
+@keyframes theme-intro {
+    from {
+        transform: scale(1);
+        opacity: 1;
+    }
+    to {
+        transform: scale(1.25);
+        opacity: 0;
+        pointer-events: none;
+    }
+}
+
+/* nitro page */
+/* gift a month button color */
+.theme-dark .lookLink-9FtZy-.colorPrimary-3b3xI6 {
+    color: #00fdff; }
+/* nitro page image */ 
+.mechaWumpus-QUIer0 {
+background-image: url("https://images.discordapp.net/avatars/482584715673600026/3813e13cf3e89eb5ab314dcda58f5d96.png"); }
+/* nitro category title and color */
+.side-8zPYf6 .item-PXvHYJ {
+    color: ;
+    background-color: ; }
+
+/* add friends list color and
+add friends icon color */
+.content-3QAtGj, .name-uJV0GL {
+    color:  #92a7f2; }
+.linkButtonIcon-Mlm5d6 {
+    color: #b9bbbeb8; }
+.subtext-1RtU34 {
+color: #bedaf8; }
+
+/* server channels list color */
+#app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j) svg, #app-mount .sidebar-2K8pFh .container-PNkimc .containerDefault-1ZnADq .wrapper-1ucjTd:not(.modeMuted-3osy7j) .name-3_Dsmg {
+color: #92a7f2 !important;
+font-weight: 600;
+}
+/* add friends image */
+.image-1GzsFd {
+flex: 0 1 auto !important;
+width: 376px !important;
+height: 162px !important;
+background-image:url(https://media.giphy.com/media/FO7rVNr3VgB2/giphy.gif) !important;}
+
+/* init fixer bar box */ 
+.appMount-3lHmkl, body {
+    background: transparent !important;
+}
+
+/* Selftag size */
+.size10-tblYdA {
+font-size: 10px;}
+
+/* removes unavailable servers icon */
+.guildsError-b7zR5H {
+       display: none;
+}
+
+/* mention style + hila */
+.theme-dark .wrapper-3WhCwL {
+color: #7289da !important;
+}
+#app-mount .chat-3bRxxu .isMentioned-N-h9aa {
+background: rgba(86, 95, 118, 0.34) !important; }
+
+/* bot tag erea*/
+.botTag-3W9SuW {
+margin-left: 10px;
+}
+
+/* keyframes */
+/* in add friend category make ADD FRIEND button rainbow */ 
+.theme-dark .friendsTable-133bsv .friendTableAddWrapper-nHHZtK h2 {
+    color: #92a7f2;
+}
+
+/* in-keyframes change self name + connacted call + playing tab games */ 
+.title-eS5yk3 {
+    color: #92a7f2;
+}
+
+/* in-keyframes Game icon as rainbow */ 
+.gameIcon-gg34Dz 
+
+@keyframes rainbow    {
+    from {
+    -webkit-filter: hue-rotate(0deg);
+}
+
+  to {
+    -webkit-filter: hue-rotate(360deg);
+  }
+}
+
+.gameIcon-gg34Dz {
+    color: #0f0;
+    animation: rainbow 1s linear infinite
+}
+/* in-keyframes add rainbow to unreaded servers + home button */ 
+.item-2hkk8m {
+    background-color: #92a7f2;
+}
+
+/* in-keyframes change nitro page Nitro title color to rainbow */ 
+@keyframes rainbow    {
+    from {
+    -webkit-filter: hue-rotate(0deg);
+}
+
+  to {
+    -webkit-filter: hue-rotate(360deg);
+  }
+}
+
+.tier2PlanName-2TttcQ {
+    color: #0f0;
+    animation: rainbow 1s linear infinite
+}
+
+/* in-keyframes */
+
+.name-3YKhmS {
+    color: #566feb;
+}
+
+/* in-keyframes server boost name / stats rainbow */
+@keyframes rainbow    {
+    from {
+    -webkit-filter: hue-rotate(0deg);
+}
+
+  to {
+    -webkit-filter: hue-rotate(360deg);
+  }
+}
+
+.base-1x0h_U {
+    color: #0f0;
+    animation: rainbow 1s linear infinite
+}
+
+/* set custom status title color */
+.headerText-2uyvpYc {
+color: #7bd6bb !importent; }
+
+/* mentions style */
+.theme-dark .isMentioned-N-h9aa {
+background: #4a4a52 !important;}
+
+/* add friend category text changer */ 
+.friendsTable-133bsv .friendTableAddWrapper-nHHZtK .friendTableAddDescription-19D3dl {
+color: #566feb;
+font-size: 17px;
+} 
+
+/* when you select stuff to copy / edit CTRL + A */ 
+::selection {
+    background: black;
+    color: white;
+}
+
+/* the little bar says NEW mentions */ 
+.mention-1f5kbO {
+background: rgb(226, 43, 46)}
+
+/* effect top Home button */ 
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9, .wrapper-1BJsBx:hover .childWrapper-anI2G9 {
+background-color: #a4a6ab;}
