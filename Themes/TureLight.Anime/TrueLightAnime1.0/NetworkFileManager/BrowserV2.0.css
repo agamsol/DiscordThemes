@@ -1,30 +1,30 @@
 /**
- * @name TrueLight (beta)
- * @author Agam#1111
- * @version 4.0
+ * @name Broser 
+ * @author Agam#1356
+ * @version 2.0
  * @description NetworkFileManager
  * @website https://github.com/agamsol/Releases/blob/master/HUB.md
 */
 
 /* Base 6.0 */ 
 @import
-url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight.Anime/Theme/Base/BaseVersion/BaseConfigV6.0.css');
+url('https://agamsol.github.io/DiscordThemes/Themes/TureLight.Anime/TrueLightAnime1.0/Theme/Base/BaseVersion/BaseConfigV6.0.css');
 
 /* Extentions 2.0 */
 @import
-url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight.Anime/Theme/Base/Extentions/ExtentionsV2.0.css');
+url('https://agamsol.github.io/DiscordThemes/Themes/TureLight.Anime/TrueLightAnime1.0/Theme/Base/Extentions/ExtentionsV2.0.css');
 
 /* root 12.0 */
 @import
-url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight.Anime/Theme/Root/RootV12.0.css');
+url('https://agamsol.github.io/DiscordThemes/Themes/TureLight.Anime/TrueLightAnime1.0/Theme/Root/RootV12.0.css');
 
 /* user cards 1.0 */
 @import
-url('http://agamsol.github.io/DiscordThemes/Themes/TrueLight.Anime/Theme/Base/UserCards/UserCardsV1.0.css');
+url('http://agamsol.github.io/DiscordThemes/TureLight.Anime/TrueLightAnime1.0/Theme/Base/UserCards/UserCardsV1.0.css');
 
 /* bugs beta 2.0 */
 @import
-url('https://agamsol.github.io/DiscordThemes/Themes/TrueLight.Anime/Theme/Base/bugs/BugsBetaV2.0.css');
+url('https://agamsol.github.io/DiscordThemes/Themes/TureLight.Anime/TrueLightAnime1.0/Theme/Base/bugs/BugsBetaV2.0.css');
 
 /* NewsBar connected to General */
 @import
