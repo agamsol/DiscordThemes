@@ -2,7 +2,7 @@
 
 /* Image variables */
     --BG-image: url('https://i.imgur.com/yTkzaHK.png');
-    --BG-image-blur: 3px;
+    --BG-image-blur: 0px;
 
     /* Brightness variables */
     --BG-serverlist-brightness: 0.7;
