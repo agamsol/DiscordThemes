@@ -1403,11 +1403,7 @@ html, span:not([class*="spinner-"]):not([class*="spinnerItem"]) { backface-visib
     transform: translateY(-5px); } }
 
 /* ---------- KEYFRAMES END ---------- */
-/*
-    Coloured SVG's by DevilBro#4401
-    Discord Server: https://discordapp.com/invite/Jx3TjNS
-    PayPal.Me: https://www.paypal.me/MircoWittrien
-*/
+
 .twitchSectionPlayButton-2RamGG { background-image: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none"><path d="M12.3333 10.002V22.002L22.3333 16.002L12.3333 10.002Z" fill="rgb(185,187,190)"/></svg>') !important; background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1) 20%, rgba(var(--BG-gradient-two), 1)); border-radius: 50%; object-position: -99999px -99999px; }
 
 .icon-2Po-VO[style*="/assets/b8029fe196b8f1382e90bbe81dab50dc.svg"] { -webkit-mask: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18"><g fill="none" fill-rule="evenodd"><path d="M18 0H0v18h18z"/><path fill="white" d="M0 8h14.2l-3.6-3.6L12 3l6 6-6 6-1.4-1.4 3.6-3.6H0"/></g></svg>') center/cover no-repeat !important; background: linear-gradient(var(--BG-gradient-direction), rgba(var(--BG-gradient-one), 1), rgba(var(--BG-gradient-two), 1)) !important; width: 18px; }
