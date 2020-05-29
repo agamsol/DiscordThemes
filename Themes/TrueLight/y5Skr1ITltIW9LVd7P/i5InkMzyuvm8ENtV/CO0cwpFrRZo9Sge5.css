@@ -1,0 +1,49 @@
+/** 
+ * @name CO0cwpFrRZo9Sge5
+ * @author Agam#1111|
+  * @description 🔵
+*/
+
+:root {
+  --BG-image: url('https://cdn.discordapp.com/attachments/674358783308201984/695586432877592606/agama_1.gif');
+  --BG-image-blur: 0px;
+  --BG-serverlist-brightness: 0.7;
+  --BG-left-brightness: 0.7;
+  --BG-right-brightness: 0.4;
+  --BG-popout-brightness: 0.1;
+  --BG-gradient-one: 57, 71, 163;
+  --BG-gradient-two: 57, 71, 163;
+  --BG-gradient-direction: -1deg;
+  --BG-window-padding: 0px;
+  --BG-window-roundness: 0px;
+  --BG-left-right-split: 7;
+  --BG-image-default: url('DEFAULT.PNG');
+  --BG-image-set: var(--BG-image, var(--BG-image-default));
+  --HSL-btns: calc(var(--HSL-size) + 20px);
+  --HSL-btns-SF-opened: calc(var(--HSL-btns) + 55px);
+  --blurple: #7289da;
+  --nitro: #ff73fa;
+  --red: #f04747;
+  --chat-box-left: 10px;
+  --friend-box-left: 5px;
+  --BG-start: #000000;
+  --font-size: 14px;
+  --loading: rgb(64, 124, 255);
+  --color: #fff;
+  --line1: 'Loading: /TrueLight/DataBase.css'; 
+  --line2: 'Loading: /TrueLight/Root.css';
+  --line3: 'Loading: /TrueLight/CodeBox.css';
+  --line4: 'Loading: /TrueLight/Users';
+  --helper-image: url('https://imgur.com/Atw6ugn.png');
+  --helper-image-size: 20px;
+  --settings-select-bottom-rights: "True Light Theme 1.0 By Agam#1111";
+  --settings-selection: rgb(255, 18, 176);
+  --Theme-Variant: " ";
+  --Update-Text: " ";
+  --Changelog: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 180" style="width:100%;height:100px;"><g style="fill: white;font-size: .5em;font-family:verdana;"><text y="20" style="font-size: 1.6em;fill: black;">TrueLight Info:</text><text y="35" style="font-size: 1.1em;" x="0">Theme Version: 2.0.0</text><text y="45" style="font-size: 1.1em;" x="0">Theme File Update: Latest</text><text y="55" style="font-size: 1.1em;" x="0">ID: 3621</text><text y="75" style="font-size: 1.6em;fill: black;">Change Log:</text><text xmlns="http://www.w3.org/2000/svg" y="85" style="font-size: 1em;" x="0">▪  Fixed Lots of Bugs</text><text xmlns="http://www.w3.org/2000/svg" y="95" style="font-size: 1em;" x="0">▪ GUI layout Changed</text><text xmlns="http://www.w3.org/2000/svg" y="105" style="font-size: 1em;" x="0">▪ News Bar Removed</text><text xmlns="http://www.w3.org/2000/svg" y="115" style="font-size: 1em;" x="0">▪ Added Change log to the setting page (This)</text><text xmlns="http://www.w3.org/2000/svg" y="125" style="font-size: 1em;" x="0">▪ Changed Code Style Layout</text><text xmlns="http://www.w3.org/2000/svg" y="135" style="font-size: 1em;" x="0">▪ Theme Is Now Encrypted</text><text xmlns="http://www.w3.org/2000/svg" y="145" style="font-size: 1em;" x="0">▪ New Background</text><text xmlns="http://www.w3.org/2000/svg" y="155" style="font-size: 1em;" x="0">▪ New Website </text><text y="165" style="font-size: 1em;" x="0">▪ hidden Email in settings page (Hover to show)</text></g></svg>');
+  --ChangelogSize: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 105" style="width:100%;height:100px;"></svg>');
+}
+
+/* end */ 
+
+

@@ -1,0 +1,5 @@
+/* Helper: "Rinat" */
+/* ID: 279642651521712129 */
+/* Discord: Rinat#1633 */
+
+.avatar-1BDn8e[src*="279642651521712129"] + h2 > .username-1A8OIy::after{content:"____";color:transparent!important;background-color:transparent;background-position:center;background-repeat:no-repeat;background-size:contain;position:relative;z-index:2;text-shadow:none;background-image:var(--helper-image);background-size:var(--helper-image-size)}
