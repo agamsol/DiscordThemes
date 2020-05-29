@@ -1,0 +1,291 @@
+html {
+    background: white;
+
+    --primary-color: #00a0fd;
+}
+
+html, body {
+    width: calc(100% - 8px);
+    height: calc(100% - 8px);
+}
+
+* {
+	font-family: Tahoma;
+}
+
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    /* background: url(images/background.jpg); */
+    background: linear-gradient(132deg, #543ab7 40%, #00acc1 100%);
+
+    width: 100%;
+    height: 100%;
+
+    z-index: -1;
+}
+
+.background-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    background: linear-gradient(to top, white, transparent 50%);
+    background-position: center;
+    background-size: cover;
+
+    width: 100%;
+    height: 105%;
+
+    z-index: -1;
+}
+
+.main {
+    width: 100%;
+    height: 200%;
+}
+
+header {
+    text-align: left;
+    border: 25px solid white;
+    border-radius: 20px;
+    margin: 310px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+    background: white;
+
+    position: relative;
+    min-width: 800px;
+}
+
+header .header {
+    display: inline;
+
+    color: black;
+    font-size: 40px;
+
+    margin: 10px;
+}
+
+header .button {
+    text-align: right;
+    cursor: pointer;
+}
+
+header .button:hover {
+    color: var(--primary-color);
+}
+
+header .icon {
+    position: relative;
+    top: 5px;
+    display: inline-block;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+}
+
+header > .links {
+    position: absolute;
+    right: 0;
+}
+
+.themes {
+    display: grid;
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+    grid-row-gap: 50px;
+    height: auto;
+    width: 70%;
+    margin-left: 15%;
+}
+
+.themes > .item {
+    display: inline-grid;
+    height: 400px;
+    width: 90%;
+
+    background: white;
+    border-radius: 10px;
+
+    border: 5px solid white;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.themes > .item, header, footer {
+    filter: drop-shadow(black 0 0 20px);
+    position: relative;
+}
+
+.themes > .item.focused {
+    margin-bottom: 60%;
+    height: 50%;
+}
+
+.themes > .item > .label {
+    position: absolute;
+    width: 96%;
+    border: 5px solid white;
+    border-bottom: 0;
+    font-size: 30px;
+    font-weight: bold;
+    background: white;
+    cursor: pointer;
+}
+
+.themes > .item > .preview {
+    position: absolute;
+    height: 74.5%;
+    width: 100%;
+    top: 50px;
+    background-size: cover;
+    background-position: center;
+    cursor: pointer;
+    transition: background-image 1s ease-in-out;
+}
+
+.themes > .item > .preview > .arr {
+    background-image: url(img/arrow.gif);
+    background-size: 5%;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.arr.prev {
+    left: -45%;
+    transform: rotateZ(90deg);
+}
+
+.arr.next {
+    top: -100%;
+    right: -45%;
+    transform: rotateZ(-90deg);
+}
+
+.themes > .item > .desc {
+    top: 85%;
+    position: relative;
+    height: 10%;
+    display: block;
+    text-align: left;
+    transform: translate(10px, -30px);
+    font-weight: bold;
+}
+
+.themes > .item > .download {
+    position: absolute;
+    background: var(--primary-color);
+    color: white;
+    font: bold;
+    border: 10px solid var(--primary-color);
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+
+    width: 96.5%;
+    bottom: 0;
+    justify-self: center;
+}
+
+footer {
+    position: absolute;
+    background: black;
+    left: 0;
+    right: 0;
+    margin-top: 1000px;
+    border: 5px solid black;
+}
+
+.footer {
+    color: white;
+    text-align: center;
+    margin: 30px;
+    font-size: 30px;
+}
+
+.footer > .link {
+    color: #8da1dc;
+    cursor: pointer;
+}
+
+.footer > .link:hover {
+    color: var(--primary-color);
+}
+
+.arrow {
+    background-image: url(img/arrow.gif);
+    background-size: 5%;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    position: fixed;
+    bottom: 5%;
+
+    width: 99.1%;
+    height: 100px;
+}
+
+.changelog-button {
+    position: absolute;
+    color: black;
+    cursor: pointer;
+
+    right: 0;
+    top: 0;
+    font-size: 44px !important;
+
+    z-index: 11;
+}
+
+.changelog {
+    transition: opacity 0.2s ease-in-out;
+
+    width: 100%;
+    height: 100%;
+
+    opacity: 0;
+    border-radius: 10px;
+
+    background: white;
+
+    z-index: 10;
+}
+
+.changelog.show {
+    opacity: 1;
+}
+
+/* addons */
+/* use .item.focused to effect theme page only */ 
+/* use .item:not(.focused) to effect main page only */ 
+
+
+.themes > .item.focused {
+    border-bottom: 105px solid white;
+}
+
+.themes > .item.focused > .download {
+    bottom: -90px;
+}
+
+.themes > .item:not(.focused) > .preview {
+    height: 333px;
+    pointer-events: none;
+}
+
+.themes > .item:not(.focused) {
+    height: 435px;
+}

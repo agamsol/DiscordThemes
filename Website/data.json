@@ -1,0 +1,70 @@
+{
+    "themes": [
+        {
+            "name": "True Light Anime v1.0",
+            "link": "https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU",
+            "description": "True Light Anime 1.0 <br> True Light Anime is a theme that based on True Light Theme,<br> An anime theme For your Discord. <br><br> Change Log:<br> · Added Background to the theme. <br> · changed Dm's list name color<br>· Removed Rainbow colors Anywhere. <br>· Built-in Control System<br>· Added NewsBar (Controlled by The Web)",
+            "images": [
+                "https://i.imgur.com/Cg4PY52.png",
+                "https://i.imgur.com/zneop0A.png",
+                "https://i.imgur.com/LYGeFVT.png"
+            ]
+        },
+        {
+            "name": "True Light v1.0 Beta",
+            "link": "https://mega.nz/#!nGYjTKiT!zvGzEp1q8WfHQAVnCFdiG6Sbi6zIaoL6be28zHuJqeM",
+            "description": "True Light 1.0 (Beta) <br> True Light is a new edition Based on MineCore.<br><br> Change Log:<br> · New Background.<br> · Added Rainbow colors to local Name.<br> · Added control system<br> · Added Rainbow Colors to the Active Now Page<br>· Added NewsBar (Controlled by The Web)<br>· Fixed Share Screen Black Background",
+            "images": [
+                "https://i.imgur.com/h9kE9Qi.png",
+                "https://i.imgur.com/qTkxT0W.png",
+                "https://i.imgur.com/E6xor8N.png"
+            ]
+        },
+        {
+            "name": "MineCore v4.0",
+            "link": "https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY",
+            "description": "Sorry, descriptions were only filled from True Light 1.0 or higher",
+            "images": [
+                "https://i.imgur.com/ui7cz2T.jpg",
+                "https://i.imgur.com/zUl0V9U.jpg",
+                "https://i.imgur.com/isyqiZ7.jpg"
+            ]
+        },
+        {
+            "name": "MineCore v3.7",
+            "link": "https://mega.nz/#!6TAHTKLS!S7YFKJzZilFEQ6-HvF84sb9v8-GvZCUG5KKVEkt6Jfk",
+            "description": "Sorry, descriptions were only filled from True Light 1.0 or higher",
+            "images": [
+                "https://i.imgur.com/Jj0SKXV.jpg",
+                "https://i.imgur.com/qpQG1In.jpg"
+            ]
+        },
+        {
+            "name": "MineCore v3.5",
+            "link": "https://mega.nz/#!6TAHTKLS!S7YFKJzZilFEQ6-HvF84sb9v8-GvZCUG5KKVEkt6Jfk",
+            "description": "Sorry, descriptions were only filled from True Light 1.0 or higher",
+            "images": [
+                "https://i.imgur.com/O4QwRlC.png",
+                "https://i.imgur.com/V0zy72f.png"
+            ]
+        },
+        {
+            "name": "MineCore v2.0",
+            "link": "https://mega.nz/#!2CZRyCYR!c1NGdcX_Nv46NdY98v0SCzSCoq9n1K3vF6Vl0K21YQY",
+            "description": "Sorry, descriptions were only filled from True Light 1.0 or higher",
+            "images": [
+                "https://i.imgur.com/YGAfu6h.png",
+                "https://i.imgur.com/1TieBoP.png"            
+            ]
+        },
+        {
+            "name": "MineCore v1.0",
+            "link": "https://mega.nz/#!JgJm2A4Y!5n5AjErY79ErloBja7zkjY4F20chv67Ci7nNAFiBkjY",
+            "description": "Sorry, descriptions were only filled from True Light 1.0 or higher",
+            "images": [
+                "https://i.imgur.com/LVNFIOx.png",
+                "https://i.imgur.com/yZH1Nuh.png"
+            ]
+        }
+    ]
+}
