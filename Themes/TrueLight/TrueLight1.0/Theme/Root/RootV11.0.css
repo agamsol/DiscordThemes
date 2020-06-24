@@ -1,22 +1,18 @@
 :root {
-
-/* Image variables */
-    --BG-image: url('https://cdn.discordapp.com/attachments/430388043594334210/567774100433534986/oc__winter_feelings___my_new_wallpaper___4k_by_total_chuck-dbv5j3k.jpg');
-    --BG-image-blur: 0px;
-
-    /* Brightness variables */
-    --BG-serverlist-brightness: 0.7;
-    --BG-left-brightness: 0.7;
-    --BG-right-brightness: 0.4;
-    --BG-popout-brightness: 0.1;
-
-    --BG-gradient-one: 57, 71, 163;       
-    --BG-gradient-two: 57, 71, 163;
-    --BG-gradient-direction: -1deg;
-
-    /* Other variables */
-    --BG-window-padding: 20px;
-    --BG-window-roundness: 7px;
-    --BG-left-right-split: 7;
-
-}
+    /* Image variables */
+        --BG-image: url('https://cdn.discordapp.com/attachments/430388043594334210/567774100433534986/oc__winter_feelings___my_new_wallpaper___4k_by_total_chuck-dbv5j3k.jpg');
+        --BG-image-blur: 0px;
+        /* Brightness variables */
+        --BG-serverlist-brightness: 0.9;
+        --BG-left-brightness: 0.8;
+        --BG-right-brightness: 0.7;
+        --BG-popout-brightness: 0.7;
+        --BG-gradient-one: 0, 0, 0;       
+        --BG-gradient-two: 0, 0, 0;
+        --BG-gradient-direction: -1deg;
+        /* Other variables */
+        --BG-window-padding: 15px;
+        --BG-window-roundness: 10px;
+        --BG-left-right-split: 7;
+    
+    }
