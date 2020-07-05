@@ -1635,3 +1635,14 @@ html.platform-win .container-1r6BKw { padding-right: 125px; }
 
 /* change location below! */
 /* https://agamsol.github.io/DiscordThemes/---location---/Bugs/BugsBetaV2.0.css */
+
+
+.members-1998pB{background-color:transparent!important}.sidebarRegion-VFTUkN,.sidebarRegionScroller-3MXcoP{margin-right:0!important}.sidebarRegionScroller-3MXcoP{background:#00000000}
+
+.members-1998pB, .members-1998pB>div {
+    background-color: #00000000 !important;
+}
+
+.scroller-1JbKMe {
+  background-color: #00000000;
+}
